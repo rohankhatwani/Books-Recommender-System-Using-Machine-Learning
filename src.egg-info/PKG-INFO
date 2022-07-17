@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/rohankhatwani/Books-Recommender-System-Using-Machine-Learning
+Author: rohankhatwani
+Author-email: rohan11074@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Books-Recommender-System-Using-Machine-Learning
+
+
